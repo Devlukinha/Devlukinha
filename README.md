@@ -2,7 +2,8 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_henrib/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-henrique-borges/)
 
-![Devlukinha GitHub stats](https://github-readme-stats.vercel.app/api?username=Devlukinha&show_icons=true&theme=dracula)
+![Devlukinha GitHub stats](https://github-readme-stats.vercel.app/api?username=Devlukinha&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devlukinha&layout=compact&hide=shell&theme=react)
 
 
 ## Tecnologias que uso no dia a dia
