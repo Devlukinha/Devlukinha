@@ -1,6 +1,5 @@
 ### Fala dev, aqui é o Devlukinha✌️
-# ![snake gif](https://github.com/Devlukinha/Devlukinha/blob/output/github-contribution-grid-snake.gif)
-<hr>
+
 
 ![Devlukinha GitHub stats](https://github-readme-stats.vercel.app/api?username=Devlukinha&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devlukinha&layout=compact&hide=shell&theme=react)
@@ -23,4 +22,5 @@
 </br>
 Um jovem programador buscando sempre evoluir!
 
-
+# ![snake gif](https://github.com/Devlukinha/Devlukinha/blob/output/github-contribution-grid-snake.gif)
+<hr>
