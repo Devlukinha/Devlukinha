@@ -1,4 +1,5 @@
 ### Fala dev, aqui é o Devlukinha✌️
+# ![snake gif](https://github.com/Devlukinha/Devlukinha/blob/output/github-contribution-grid-snake.gif)
 <hr>
 
 ![Devlukinha GitHub stats](https://github-readme-stats.vercel.app/api?username=Devlukinha&show_icons=true&theme=react)
