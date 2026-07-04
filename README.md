@@ -22,5 +22,5 @@
 </br>
 Um jovem programador buscando sempre evoluir!
 
-# ![snake gif](https://github.com/Devlukinha/Devlukinha/blob/output/github-contribution-grid-snake.gif)
+
 <hr>
