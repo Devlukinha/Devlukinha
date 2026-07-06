@@ -1,10 +1,9 @@
 ### Welcome to my profile!
 
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Devlukinha/Devlukinha/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Devlukinha/Devlukinha/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&fontFamily=&preferLogin=false">
+    <img  alt="lucashenrique's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/brunobritodev?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false" />
+  </a>
 
 ###
 
