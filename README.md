@@ -1,9 +1,7 @@
 ### Welcome to my profile!
 
 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&fontFamily=&preferLogin=false">
-    <img  alt="lucashenrique's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/lucashenrique?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false" />
-  </a>
+  
 
 ###
 
